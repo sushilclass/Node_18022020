@@ -1,0 +1,45 @@
+[
+    {
+      "ParameterName": "MINIMUM CIRCUIT AMPACITY OVR_",
+      "Action": "setParameter",
+      "ParentElementUniqueId": "942d3de4-2fd0-42f0-bf9b-cdb6cfbfa359-0016ef13",
+      "GUID": "8b32dc08-6f78-5077-a3fa-e6aee7541ca7",
+      "Value": "30"
+    },
+    {
+      "ParameterName": "MAXIMUM OVERCURRENT PROTECTION OVR_",
+      "Action": "setParameter",
+      "ParentElementUniqueId": "942d3de4-2fd0-42f0-bf9b-cdb6cfbfa359-0016ef13",
+      "GUID": "d41f4e03-9fb3-811b-223c-18dc77039eb5",
+      "Value": "600"
+    },
+    {
+      "ParameterName": "POWER FACTOR OVR_",
+      "Action": "setParameter",
+      "ParentElementUniqueId": "942d3de4-2fd0-42f0-bf9b-cdb6cfbfa359-0016ef13",
+      "GUID": "37d7bddf-769f-8338-9840-6270f2a038fd",
+      "Value": "0.8"
+    },
+    {
+      "ParameterName": "APPARENT LOAD OVR_",
+      "Action": "setParameter",
+      "ParentElementUniqueId": "942d3de4-2fd0-42f0-bf9b-cdb6cfbfa359-0016ef13",
+      "GUID": "8f7d60dd-465f-2aa3-6f2a-baac13cb5880",
+      "Value": "65659.8535419293"
+    },
+    {
+      "ParameterName": "FULL LOAD AMPS OVR_",
+      "Action": "setParameter",
+      "ParentElementUniqueId": "942d3de4-2fd0-42f0-bf9b-cdb6cfbfa359-0016ef13",
+      "GUID": "dbdc3d05-34b4-6ffc-6f64-2230eb008ba7",
+      "Value": "16.7"
+    },
+    {
+      "ParameterName": "ISC OVR_",
+      "Action": "setParameter",
+      "ParentElementUniqueId": "942d3de4-2fd0-42f0-bf9b-cdb6cfbfa359-0016ef13",
+      "GUID": "713e1126-8129-3a24-32af-cd7710f446d4",
+      "Value": "2235"
+    }
+  ]
+  
